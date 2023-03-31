@@ -1,0 +1,22 @@
+/target/
+/.apt_generated/
+/.apt_generated_tests/
+/src/main/appengine/app.yaml
+
+# IDEs and editors
+/.idea
+.project
+.factorypath
+.classpath
+.c9/
+*.launch
+/.settings/
+*.sublime-workspace
+/bin/
+*.iml
+
+# Ignore Mac DS_Store files
+**/.DS_Store
+
+# Generated files
+.checkstyle
